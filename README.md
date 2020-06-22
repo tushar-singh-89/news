@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+A Flutter Application which uses the API Calls to fetch the latest news and provides you with an awesome User Interface to read the news along with filter options for many categories to suit your interest.
 
 ## Getting Started
 
